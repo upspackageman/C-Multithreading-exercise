@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Passing_in_data\Passing_in_data\bin\Debug\Passing_in_data.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Passing_in_data\Passing_in_data\bin\Debug\Passing_in_data.exe
+c:\users\user\documents\visual studio 2015\Projects\Passing_in_data\Passing_in_data\bin\Debug\Passing_in_data.pdb
+c:\users\user\documents\visual studio 2015\Projects\Passing_in_data\Passing_in_data\obj\Debug\Passing_in_data.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Passing_in_data\Passing_in_data\obj\Debug\Passing_in_data.exe
+c:\users\user\documents\visual studio 2015\Projects\Passing_in_data\Passing_in_data\obj\Debug\Passing_in_data.pdb

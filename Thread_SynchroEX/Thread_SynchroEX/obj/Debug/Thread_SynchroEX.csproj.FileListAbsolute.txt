@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Thread_SynchroEX\Thread_SynchroEX\bin\Debug\Thread_SynchroEX.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Thread_SynchroEX\Thread_SynchroEX\bin\Debug\Thread_SynchroEX.exe
+c:\users\user\documents\visual studio 2015\Projects\Thread_SynchroEX\Thread_SynchroEX\bin\Debug\Thread_SynchroEX.pdb
+c:\users\user\documents\visual studio 2015\Projects\Thread_SynchroEX\Thread_SynchroEX\obj\Debug\Thread_SynchroEX.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Thread_SynchroEX\Thread_SynchroEX\obj\Debug\Thread_SynchroEX.exe
+c:\users\user\documents\visual studio 2015\Projects\Thread_SynchroEX\Thread_SynchroEX\obj\Debug\Thread_SynchroEX.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Threading_Exercise1\Threading_Exercise1\bin\Debug\Threading_Exercise1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Threading_Exercise1\Threading_Exercise1\obj\Debug\Threading_Exercise1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Threading_Exercise1\Threading_Exercise1\bin\Debug\Threading_Exercise1.exe
+c:\users\user\documents\visual studio 2015\Projects\Threading_Exercise1\Threading_Exercise1\bin\Debug\Threading_Exercise1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Threading_Exercise1\Threading_Exercise1\obj\Debug\Threading_Exercise1.exe
+c:\users\user\documents\visual studio 2015\Projects\Threading_Exercise1\Threading_Exercise1\obj\Debug\Threading_Exercise1.pdb

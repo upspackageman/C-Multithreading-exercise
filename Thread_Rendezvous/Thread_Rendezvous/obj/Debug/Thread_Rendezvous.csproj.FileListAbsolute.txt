@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Thread_Rendezvous\Thread_Rendezvous\bin\Debug\Thread_Rendezvous.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Thread_Rendezvous\Thread_Rendezvous\bin\Debug\Thread_Rendezvous.exe
+c:\users\user\documents\visual studio 2015\Projects\Thread_Rendezvous\Thread_Rendezvous\bin\Debug\Thread_Rendezvous.pdb
+c:\users\user\documents\visual studio 2015\Projects\Thread_Rendezvous\Thread_Rendezvous\obj\Debug\Thread_Rendezvous.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Thread_Rendezvous\Thread_Rendezvous\obj\Debug\Thread_Rendezvous.exe
+c:\users\user\documents\visual studio 2015\Projects\Thread_Rendezvous\Thread_Rendezvous\obj\Debug\Thread_Rendezvous.pdb

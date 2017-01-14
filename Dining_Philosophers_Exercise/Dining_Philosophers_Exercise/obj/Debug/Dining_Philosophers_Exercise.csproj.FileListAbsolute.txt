@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Dining_Philosophers_Exercise\Dining_Philosophers_Exercise\bin\Debug\Dining_Philosophers_Exercise.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Dining_Philosophers_Exercise\Dining_Philosophers_Exercise\obj\Debug\Dining_Philosophers_Exercise.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Dining_Philosophers_Exercise\Dining_Philosophers_Exercise\bin\Debug\Dining_Philosophers_Exercise.exe
+c:\users\user\documents\visual studio 2015\Projects\Dining_Philosophers_Exercise\Dining_Philosophers_Exercise\bin\Debug\Dining_Philosophers_Exercise.pdb
+c:\users\user\documents\visual studio 2015\Projects\Dining_Philosophers_Exercise\Dining_Philosophers_Exercise\obj\Debug\Dining_Philosophers_Exercise.exe
+c:\users\user\documents\visual studio 2015\Projects\Dining_Philosophers_Exercise\Dining_Philosophers_Exercise\obj\Debug\Dining_Philosophers_Exercise.pdb

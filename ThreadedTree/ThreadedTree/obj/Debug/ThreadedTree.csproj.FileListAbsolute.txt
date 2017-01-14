@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ThreadedTree\ThreadedTree\bin\Debug\ThreadedTree.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ThreadedTree\ThreadedTree\bin\Debug\ThreadedTree.exe
+c:\users\user\documents\visual studio 2015\Projects\ThreadedTree\ThreadedTree\bin\Debug\ThreadedTree.pdb
+c:\users\user\documents\visual studio 2015\Projects\ThreadedTree\ThreadedTree\obj\Debug\ThreadedTree.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ThreadedTree\ThreadedTree\obj\Debug\ThreadedTree.exe
+c:\users\user\documents\visual studio 2015\Projects\ThreadedTree\ThreadedTree\obj\Debug\ThreadedTree.pdb

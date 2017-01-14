@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Producer_ConsumerEX\Producer_ConsumerEX\bin\Debug\Producer_ConsumerEX.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Producer_ConsumerEX\Producer_ConsumerEX\bin\Debug\Producer_ConsumerEX.exe
+c:\users\user\documents\visual studio 2015\Projects\Producer_ConsumerEX\Producer_ConsumerEX\bin\Debug\Producer_ConsumerEX.pdb
+c:\users\user\documents\visual studio 2015\Projects\Producer_ConsumerEX\Producer_ConsumerEX\obj\Debug\Producer_ConsumerEX.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Producer_ConsumerEX\Producer_ConsumerEX\obj\Debug\Producer_ConsumerEX.exe
+c:\users\user\documents\visual studio 2015\Projects\Producer_ConsumerEX\Producer_ConsumerEX\obj\Debug\Producer_ConsumerEX.pdb
